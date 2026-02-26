@@ -112,6 +112,16 @@ Jarvis Framework operationalizes that mindset.
 
 
 
+# 🚀 Future Enhancements
+
+- Visual interaction diagram (Mermaid or SVG)
+- Real-world case study examples
+- Integration with prompt-engineering toolkit
+- AI interaction benchmarks
+- Expansion into cognitive workflow templates
+  
+
+
 ## 👨‍💻 Author
 Bruno Williams Santos  
 Software Engineering Student  
